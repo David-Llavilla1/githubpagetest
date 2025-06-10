@@ -128,7 +128,7 @@
     <footer>
       <H3>  CONTACTO </h3>
       <p><a href="https://pe.linkedin.com/in/david-cristian-llavilla-ccari-56b552197" target="_blank">Mi Linkedin</a></p>
-      <p>Contacto: davi.llavilla@ucsp.edu.pe</p>
+      <p>davi.llavilla@ucsp.edu.pe</p>
     </footer>
   </div>
 </body>
