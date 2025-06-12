@@ -82,7 +82,7 @@
 
     <div class="card">
       <h1>¡Hola!, Soy David Llavilla</h1>
-      <p>Un estudiante de la <strong>Universidad Católica San Pablo</strong>, me considero una persona positiva, responsable y perseverante. Me gusta aprender cosas nuevas y dar siempre lo mejor de mí en todo lo que hago. Disfruto trabajando en equipo y ayudando a los demás.</p>
+      <p>Un estudiante de la <strong>Universidad Católica San Pablo</strong>, de la carrera de <strong>Administración de Negocios</strong>,me considero una persona positiva, responsable y perseverante. Me gusta aprender cosas nuevas y dar siempre lo mejor de mí en todo lo que hago. Disfruto trabajando en equipo y ayudando a los demás.</p>
       <p>Los deportes me ayudan a mantenerme activo, desarrollar disciplina y mejorar mi salud. También me enseñan a trabajar en equipo, a tener paciencia y a superar retos con esfuerzo y dedicación.</p>
     </div>
 
