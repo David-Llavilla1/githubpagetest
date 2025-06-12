@@ -83,7 +83,7 @@
 
     <div class="card">
       <h1>¡Hola!, Soy David Llavilla</h1>
-      <p>Un estudiante de la <strong>Universidad Católica San Pablo</strong>, de la carrera de <strong>Administración de Negocios</strong>,me considero una persona positiva, responsable y perseverante. Me gusta aprender cosas nuevas y dar siempre lo mejor de mí en todo lo que hago. Disfruto trabajando en equipo y ayudando a los demás.</p>
+      <p>Un estudiante de la <strong>Universidad Católica San Pablo</strong>, de la carrera de <strong>Administración de Negocios</strong>, me considero una persona positiva, responsable y perseverante. Me gusta aprender cosas nuevas y dar siempre lo mejor de mí en todo lo que hago. Disfruto trabajando en equipo y ayudando a los demás.</p>
       <p>Los deportes me ayudan a mantenerme activo, desarrollar disciplina y mejorar mi salud. También me enseñan a trabajar en equipo, a tener paciencia y a superar retos con esfuerzo y dedicación.</p>
     </div>
 
@@ -109,18 +109,18 @@
       <p>Filosofia de la Naturaleza</p>
       <li>Doncente: María Belén Bocchio Linares</li>
       <p>Pensamiento Computacional</p>
-      <li>DOncente: Ernesto Cadra Vargas</li>
+      <li>Doncente: Ernesto Cadra Vargas</li>
     </div>
 
-    <div class="card">
+     div class="card">
       <h2>Los compañeros que llevan conmigo</h2>
       <ul>
         <li>Ariadna Paredes</li>
-        <p><a href="https://ariadna136.github.io/Pagina-Web/">Su presentación</a></p>
+<p><a href="https://ariadna136.github.io/Pagina-Web/">Su presentación</a></p>
         <li>Dulce Llanllaya</li>
-        <p><a href="https://xulcemaria.github.io/Dulce-Maria-Llanllaya-Garcia/">Su presentación</a></p>
+p><a href="https://xulcemaria.github.io/Dulce-Maria-Llanllaya-Garcia/">Su presentación</a></p>
         <li>Leonardo Cruz</li>
-    <p><a href="https://leonardocruz28.github.io/" target="_blank">Su presentación</a></p>
+<p><a href="https://leonardocruz28.github.io/" target="_blank">Su presentación</a></p>
        <li>Anghelina Quispe </li>
 <p><a href="https://anghelyquis.github.io/Anghely-Quis.github.io/" target="_blank">Su presentación</a></p>
          <li>Duany Gonzales </li>
