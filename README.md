@@ -111,7 +111,7 @@
       <li>Doncente: Ernesto Cadra Vargas</li>
     </div>
 
-     div class="card">
+     <div class="card">
       <h2>Los compañeros que llevan conmigo</h2>
       <ul>
         <li>Ariadna Paredes</li>
