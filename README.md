@@ -104,11 +104,11 @@
       <p>Calculo en una Variable</p>
       <li>Docente: Arpita Deza Rosa Elena</li>
       <p>Historia Occidental</p>
-      <li>Amparo Isela Chalco Chavez</li>
+      <li>Doncente: Amparo Isela Chalco Chavez</li>
       <p>Filosofia de la Naturaleza</p>
-      <li>María Belén Bocchio Linares</li>
+      <li>Doncente: María Belén Bocchio Linares</li>
       <p>Pensamiento Computacional</p>
-      <li>Ernesto Cadra Vargas</li>
+      <li>DOncente: Ernesto Cadra Vargas</li>
     </div>
 
     <div class="card">
@@ -120,9 +120,9 @@
         <p><a href="https://xulcemaria.github.io/Dulce-Maria-Llanllaya-Garcia/">Su presentación</a></p>
         <li>Leonardo Cruz</li>
     <p><a href="https://leonardocruz28.github.io/" target="_blank">Su presentación</a></p>
-       <li> Anghelina Quispe </li>
+       <li>Anghelina Quispe </li>
 <p><a href="https://anghelyquis.github.io/Anghely-Quis.github.io/" target="_blank">Su presentación</a></p>
-         <li> Duany Gonzales </li>
+         <li>Duany Gonzales </li>
 <p><a href="https://dagh-dagh.github.io/duanygonzales.github.io/">Su presentación</a></p>
       </ul>
     </div>
