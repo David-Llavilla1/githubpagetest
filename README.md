@@ -117,7 +117,7 @@
         <li>Ariadna Paredes</li>
 <p><a href="https://ariadna136.github.io/Pagina-Web/">Su presentación</a></p>
         <li>Dulce Llanllaya</li>
-p><a href="https://xulcemaria.github.io/Dulce-Maria-Llanllaya-Garcia/">Su presentación</a></p>
+<p><a href="https://xulcemaria.github.io/Dulce-Maria-Llanllaya-Garcia/">Su presentación</a></p>
         <li>Leonardo Cruz</li>
 <p><a href="https://leonardocruz28.github.io/" target="_blank">Su presentación</a></p>
        <li>Anghelina Quispe </li>
