@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -130,7 +131,7 @@
     <footer>
       <H3>  CONTACTO </h3>
       <p><a href="https://pe.linkedin.com/in/david-cristian-llavilla-ccari-56b552197" target="_blank">Mi Linkedin</a></p>
-      <p><a href="https://mail.google.com/mail/u/0/?hl=es-419#inbox" target="_blank">Mi correo</a></p>
+      <p><a href="David Cristian Llavilla Ccari <david.llavilla@ucsp.edu.pe>" target="_blank">Mi correo</a></p>
     </footer>
   </div>
 </body>
