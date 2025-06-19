@@ -114,18 +114,12 @@
   <div class="card">
   <h2>Los compañeros que llevan conmigo</h2>
   <ul>
-  <li>Ariadna Paredes</li>
-<p><a href="https://ariadna136.github.io/Pagina-Web/">Su presentación</a></p>
-        <li>Dulce Llanllaya</li>
-<p><a href="https://xulcemaria.github.io/Dulce-Maria-Llanllaya-Garcia/">Su presentación</a></p>
-        <li>Leonardo Cruz</li>
-<p><a href="https://leonardocruz28.github.io/" target="_blank">Su presentación</a></p>
-       <li>Anghelina Quispe </li>
-<p><a href="https://anghelyquis.github.io/Anghely-Quis.github.io/" target="_blank">Su presentación</a></p>
-         <li>Duany Gonzales </li>
-<p><a href="https://dagh-dagh.github.io/duanygonzales.github.io/">Su presentación</a></p>
-         <li>Jhaiden Fredy Carrizales Mamani </li>
-<p><a href="[https://dagh-dagh.github.io/duanygonzales.github.io/](https://fred266-ca.github.io/Jhaiden-Fredy-Carrizales-Mamani/)">Su presentación</a></p>
+  <li><a href="https://ariadna136.github.io/Pagina-Web/">Ariadna Paredes</a></li>
+  <li><a href="https://xulcemaria.github.io/Dulce-Maria-Llanllaya-Garcia/">Dulce Llanllaya</a></li>
+  <li><a href="https://leonardocruz28.github.io/" target="_blank">Leonardo Cruz</a></li>
+  <li><a href="https://anghelyquis.github.io/Anghely-Quis.github.io/" target="_blank">Anghelina Quispe</a> </li>
+  <li><a href="https://dagh-dagh.github.io/duanygonzales.github.io/">Duany Gonzales</a> </li>
+  <li><a href="https://fred266-ca.github.io/Jhaiden-Fredy-Carrizales-Mamani/">Jhaiden Fredy Carrizales Mamani</a> </li>
       </ul>
     </div>
 
