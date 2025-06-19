@@ -104,17 +104,17 @@
       <p>Calculo en una Variable</p>
       <li>Docente: <a href="https://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=351770571c155d27537e1a415bed?id_investigador=140259" target="_blank">Arpita Deza Rosa Elena</a></li>
       <p>Historia Occidental</p>
-      <li>Doncente: <a href="https://pe.linkedin.com/in/mario-rommel-arce-espinoza-94585b19a" target="_blank">Amparo Isela Chalco Chavez</a></li>
+      <li>Docente: <a href="https://pe.linkedin.com/in/mario-rommel-arce-espinoza-94585b19a" target="_blank">Amparo Isela Chalco Chavez</a></li>
       <p>Filosofia de la Naturaleza</p>
-      <li>Doncente: <a href="https://www.facebook.com/davidluis.mattoneyra/" target="_blank">David Luis Matto Neyra</a></li>
+      <li>Docente: <a href="https://www.facebook.com/davidluis.mattoneyra/" target="_blank">David Luis Matto Neyra</a></li>
       <p>Pensamiento Computacional</p>
-      <li>Doncente: <a href="https://pe.linkedin.com/in/ecuadrosv" target="_blank">Ernesto Cadra Vargas</a></li>
+      <li>Docente: <a href="https://pe.linkedin.com/in/ecuadrosv" target="_blank">Ernesto Cadra Vargas</a></li>
     </div>
 
-     <div class="card">
-      <h2>Los compañeros que llevan conmigo</h2>
-      <ul>
-        <li>Ariadna Paredes</li>
+  <div class="card">
+  <h2>Los compañeros que llevan conmigo</h2>
+  <ul>
+  <li>Ariadna Paredes</li>
 <p><a href="https://ariadna136.github.io/Pagina-Web/">Su presentación</a></p>
         <li>Dulce Llanllaya</li>
 <p><a href="https://xulcemaria.github.io/Dulce-Maria-Llanllaya-Garcia/">Su presentación</a></p>
@@ -124,13 +124,15 @@
 <p><a href="https://anghelyquis.github.io/Anghely-Quis.github.io/" target="_blank">Su presentación</a></p>
          <li>Duany Gonzales </li>
 <p><a href="https://dagh-dagh.github.io/duanygonzales.github.io/">Su presentación</a></p>
+         <li>Jhaiden Fredy Carrizales Mamani </li>
+<p><a href="[https://dagh-dagh.github.io/duanygonzales.github.io/](https://fred266-ca.github.io/Jhaiden-Fredy-Carrizales-Mamani/)">Su presentación</a></p>
       </ul>
     </div>
 
-    <footer>
-      <H3>  CONTACTO </h3>
-      <p><a href="https://pe.linkedin.com/in/david-cristian-llavilla-ccari-56b552197" target="_blank">Mi Linkedin</a></p>
-      <p><a href="David Cristian Llavilla Ccari <david.llavilla@ucsp.edu.pe>" target="_blank">Mi correo</a></p>
+  <footer>
+  <H3>  CONTACTO </h3>
+   <p><a href="https://pe.linkedin.com/in/david-cristian-llavilla-ccari-56b552197" target="_blank">Mi Linkedin</a></p>
+  <p>Mi correo: david.llavilla@ucsp.edu.pe</p>
     </footer>
   </div>
 </body>
